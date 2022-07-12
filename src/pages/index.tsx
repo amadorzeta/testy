@@ -4,7 +4,14 @@ import Head from "next/head";
 const Component = () => {
   return (
     <>
-      <h1>Hi there</h1>
+      <nav>
+        <h1>Testy first attempt</h1>
+        <ul>
+          <li>first</li>
+          <li>second</li>
+          <li>third</li>
+        </ul>
+      </nav>
     </>
   );
 };
